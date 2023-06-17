@@ -45,6 +45,7 @@ Pillow==9.5.0
 platformdirs==2.5.0
 prompt-toolkit==3.0.36
 protobuf==3.20.1
+psycopg2==2.9.6
 pure-eval==0.2.2
 Pygments==2.13.0
 pylint==2.12.2
